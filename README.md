@@ -1,7 +1,9 @@
 # NFLPassCompletion
 
 Note: Each of the 6 files can be reproduced independently. 
+
 The raw original data to use in File 1 can be accessed for download at https://www.kaggle.com/c/nfl-big-data-bowl-2021/data (Last access: Feb 5, 2022).
+
 The .rda and .csv files necessary to reproduce Files 2-6 are available for download at Google Drive: https://drive.google.com/drive/folders/1lsJdv8g6hOMRbcbU3eMAf2PmehOc3m5A?usp=sharing  (Last access: Feb 5, 2022).
 
 Files description
