@@ -1,7 +1,7 @@
 # Necessary packages
 library(tidyverse)
 
-############################################### CREATING DATABASES ######################################
+############################################### CREATING INITIAL DATABASE ######################################
 
 ##reading in non-tracking data
 
