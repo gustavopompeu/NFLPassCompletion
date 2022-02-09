@@ -19,3 +19,8 @@ Files description
 "5_Animating_plays.R": Creation of the animations of the plays and the plots of the improbable pass completions comparing our model to the Next Gen Stats probabilities.
 
 "6_Other_plots.R": Creation of the other plots presented in the work, such as the exploratory analysis of the created variables and the final results of our model for the whole database.
+
+
+
+
+Pre-Print: https://arxiv.org/abs/2109.08051
